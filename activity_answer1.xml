@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.barat.plspls.Answer1">
+
+   <TextView
+        android:id="@+id/textView3"
+        android:layout_width="357dp"
+        android:layout_height="483dp"
+
+        android:text="@string/a1_modern_agriculture_has_seen_many_changes_in_the_last_few_decades_today_farmers_use_sensors_aerial_images_gps_and_more_to_increase_yields_and_efficiency_this_technology_also_has_allowed_farmers_to_treat_crops_with_pesticides_and_fertilizers_with_much_more_precision_they_are_able_to_focus_on_certain_sectors_of_a_field_or_a_down_to_a_single_plant_instead_of_spraying_the_entire_field_these_tactics_results_in_lower_food_prices_reduced_impacts_on_natural_resources_and_increased_workers_safety"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+
+</android.support.constraint.ConstraintLayout>

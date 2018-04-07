@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.barat.plspls.pans2Activity">
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="328dp"
+        android:layout_height="424dp"
+        android:text="उर्वरक एनडी कीटनाशकों को विभिन्न दुकानों के माध्यम से खरीदा जा सकता है जैसे कि: निर्माताओं का डिपो मालिकों, थोक व्यापारी और खुदरा व्यापारी राज्य कृषि उद्योग, निगमों और राज्य वस्तु संघों और कृषि विस्तार केंद्रों के सेवा केंद्र राज्य सहकारी विपणन संघों और पीएसीएस के ग्राम स्तर के सहकारी समितियों (प्राथमिक कृषि सहकारी समितियां) भारत के राष्ट्रीय कृषि सहकारी विपणन संघ के किसान सेवा केंद्र या नाफेड और भारतीय किसानों के उर्वरक सहकारी लिमिटेड या आईएफएफसीओ कृषि व्यवसाय केन्द्रों, विशेष फसलों के लिए उर्वरकों और खुराक के सही संयोजन के बारे में जानकारी आपके स्थानीय क्षेत्र के साथ उपलब्ध है या ब्लॉक कृषि अधिकारी आपको खरीदने की जरूरत कीटनाशकों में विभिन्न फसलों, कीटों और क्षेत्रों के लिए अलग-अलग होते हैं। सिफारिश कीटनाशकों के लिए हमारे डेटाबेस के माध्यम से खोजें (बाहरी वेबसाइट जो एक नई विंडों में खुलती हैं) किसी भी संदेह के लिए अपने क्षेत्र के ग्रामीण स्तर पर ब्लॉक स्तर या सहायक कृषि अधिकारी के कृषि विकास अधिकारी से संपर्क करें।"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="45dp" />
+</android.support.constraint.ConstraintLayout>

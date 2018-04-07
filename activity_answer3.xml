@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.barat.plspls.Answer3">
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true"> <!--IMPORTANT otherwise backgrnd img. will not fill the whole screen -->
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="342dp"
+            android:layout_height="860dp"
+            android:text=" Soil testing is divided into four sections - Soil Physics, Soil Chemistry and Fertility, Soil Biology and Environmental Soil Science.  Soil Physics tests the geometrical arrangement or pattern of soil components like soil particles, soil aggregates, water, gas and solute in the soil. Equipment such as pressure plate apparatus, sand box, neutron moisture meter, depth density gauge, K-permeameter, rainfall simulator and root scanner are used. Testers come up with recommendations to enhance soil quality like conservation tillage, crop diversification, rainwater harvesting and sequestration. Soil Chemistry consists of testing the chemical characteristics for mineral composition, organic matter, PKN nutrients and Ph levels. Devices such as UV Visible Spectrophotometers, Deep Freezers, Sonicators, microwave digestion units and flame photometers are used. Such studies help in improving efficiency of nutrient cycling, minimizing nutrient losses from soils and improving soil quality for sustained high productivity. Soil Biology - is the study of microbial activity and ecology in the soil of organisms such as earthworms, nematodes, protozoa, fungi and bacteria. Laboratory tools such as laminar flow, BOD incubator and a research microscope with camera and CCTV system are used to view inner layers of the soil. Knowledge of soil biology can help in choosing fertilizers, pesticides and composting systems. Environmental Soil Science - deals with the extent of soil pollution due to city, industrial and agricultural wastes and indiscriminate use of fertilizers for crop production. It develops suitable prescriptions and technologies for safe recycling of these wastes into agriculturally productive soils."
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="20sp"
+            tools:layout_editor_absoluteX="25dp"
+            tools:layout_editor_absoluteY="37dp" />
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>
+
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.barat.plspls.Answer2">
+
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true"> <!--IMPORTANT otherwise backgrnd img. will not fill the whole screen -->
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="359dp"
+            android:layout_height="694dp"
+            android:text=".Fertilizers a nd Pesticides may be purchased through different outlets such as:  The manufacturers own depots Marketers, wholesalers and retail dealers Service Centres of State agro industries, corporations and State commodity federations and agricultural extension centres Village level cooperative societies of State Cooperative Marketing Federations and PACS (Primary Agricultural Cooperative Societies) Farmer Service centres of National Agricultural Cooperative Marketing Federation of India or NAFED and Indian Farmers Fertilizer Cooperative Limited or IFFCO Agri-business Centres Information about the correct combination of fertilizers and doses for particular crops is available with your local area or block agriculture officer. The pesticides you need to buy vary for different crops, pests and regions. Search through our database for recommended pesticides (External website that opens in a new window). For any doubts contact the Agricultural Development Officer at the block level or Assistant Agricultural Officer at the village level of your area."
+            android:textSize="20sp"
+            tools:layout_editor_absoluteX="13dp"
+            tools:layout_editor_absoluteY="4dp" />
+
+
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

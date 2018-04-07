@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/lang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" हिंदी के लिए यहां दबाएं" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="364dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="Where can I purchase fertilizers and pesticides? How do I select the right ones?"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="20sp"></TextView>
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="sendFeedback"
+                android:text="Answer"></Button>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="360dp"
+                android:layout_height="74dp"
+                android:text="How technology is used in modern farming application?"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="20sp" />
+
+            <Button
+
+                android:id="@+id/button2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="sendFeedback"
+                android:text="Answer"></Button>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="What does the process of soil testing involve?"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="sendFeedback"
+                android:text="Answer"></Button>
+
+            <ListView
+                android:id="@android:id/list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@+id/label"
+                android:textSize="20px"></ListView>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

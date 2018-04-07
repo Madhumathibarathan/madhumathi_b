@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "828893241550",
+    "firebase_url": "https://plspls-ef69f.firebaseio.com",
+    "project_id": "plspls-ef69f",
+    "storage_bucket": "plspls-ef69f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828893241550:android:5e92257daf633536",
+        "android_client_info": {
+          "package_name": "com.example.barat.plspls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828893241550-93laaic4khgpssi0b6boiuqqir75mp0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDolr7sP2ZDXmvEE_VtoR_QVa1nXqyNcts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
