@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chedi</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets_array">
+        <item>AM</item>
+        <item>PM</item>
+
+    </string-array>
+</resources>

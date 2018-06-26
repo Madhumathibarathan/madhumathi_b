@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1039854082757",
+    "firebase_url": "https://chedi-60c43.firebaseio.com",
+    "project_id": "chedi-60c43",
+    "storage_bucket": "chedi-60c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039854082757:android:0329fb3323a25781",
+        "android_client_info": {
+          "package_name": "com.example.barat.chedi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039854082757-1t22ctf5a60ii896gvb7p5ra8c8ukfk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barat.chedi",
+            "certificate_hash": "5119c956d1f4bb624465620b3f0b62214e770079"
+          }
+        },
+        {
+          "client_id": "1039854082757-o0gp3tc6ls932sv53524vmkdjja39t3t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1039854082757-o0gp3tc6ls932sv53524vmkdjja39t3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vdsAIMIth8us7hKne_sqhm_u6Aqh-go"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039854082757-o0gp3tc6ls932sv53524vmkdjja39t3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
